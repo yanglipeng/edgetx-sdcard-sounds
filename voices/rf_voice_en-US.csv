@@ -1,0 +1,36 @@
+id,filename,speak,context,description
+1,rf_ready.wav,Rotorflight ready,,System ready
+2,rf_gyro.wav,gyro ready,,Gyroscope ready
+3,rf_gps_fix.wav,GPS fix {sats} satellites,,GPS fixed
+4,rf_gps_nofix.wav,GPS no fix,,GPS not fixed
+5,rf_armed.wav,armed,,Armed
+6,rf_disarmed.wav,disarmed,,Disarmed
+7,rf_arm_fail.wav,arming failed,,Arming failed
+8,rf_angle.wav,angle,,Angle mode
+9,rf_horizon.wav,horizon,,Horizon mode
+10,rf_acro.wav,acro,,Acrobatic mode
+11,rf_althold.wav,alti hold,,Altitude hold
+12,rf_failsafe.wav,failsafe,,Failsafe
+13,rf_landing.wav,landing,,Landing
+14,rf_landed.wav,landed,,Landed
+15,rf_rescue.wav,GPS rescue,,GPS rescue
+16,rf_rth.wav,returning home,,Returning home
+17,rf_home.wav,home reached,,Home reached
+18,rf_gov_on.wav,governor,,Governor active
+19,rf_gov_off.wav,governor off,,Governor off
+20,rf_auto.wav,auto,,Autorotation
+21,rf_bailout.wav,bailout,,Bailout
+22,rf_sig_lost.wav,signal lost,,Signal lost
+23,rf_sig_ok.wav,signal ok,,Signal OK
+24,rf_telem_lost.wav,telemetry lost,,Telemetry lost
+25,rf_telem_ok.wav,telemetry ok,,Telemetry OK
+26,rf_cell_low.wav,cell low,,Cell low
+27,rf_cell_crit.wav,cell critical,,Cell critical
+28,rf_voltage.wav,voltage {volts},,Battery voltage
+29,rf_temp.wav,temp {temp},,ESC temperature
+30,rf_esc_hot.wav,ESC hot,,ESC hot
+31,rf_sig_weak.wav,signal weak,,Signal weak
+32,rf_sig_crit.wav,signal critical,,Signal critical
+33,rf_link.wav,link {lq},,Link quality
+34,rf_flight_done.wav,flight complete,,Flight complete
+35,rf_flight_time.wav,flight time {minutes} minutes,,Flight time

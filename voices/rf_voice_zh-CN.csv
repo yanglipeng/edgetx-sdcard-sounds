@@ -1,0 +1,36 @@
+id,filename,speak,context,description
+1,rf_ready.wav,Rotorflight ready,,系统就绪
+2,rf_gyro.wav,gyro ready,,陀螺仪就绪
+3,rf_gps_fix.wav,GPS fix {sats} satellites,,GPS已定位
+4,rf_gps_nofix.wav,GPS no fix,,GPS未定位
+5,rf_armed.wav,armed,,已解锁
+6,rf_disarmed.wav,disarmed,,已锁定
+7,rf_arm_fail.wav,arming failed,,解锁失败
+8,rf_angle.wav,angle,,自稳模式
+9,rf_horizon.wav,horizon,,增稳模式
+10,rf_acro.wav,acro,,特技模式
+11,rf_althold.wav,alti hold,,高度锁定
+12,rf_failsafe.wav,failsafe,,失控保护
+13,rf_landing.wav,landing,,降落中
+14,rf_landed.wav,landed,,已降落
+15,rf_rescue.wav,GPS rescue,,GPS救生
+16,rf_rth.wav,returning home,,返航中
+17,rf_home.wav,home reached,,已到达
+18,rf_gov_on.wav,governor,,Governor工作
+19,rf_gov_off.wav,governor off,,Governor关闭
+20,rf_auto.wav,auto,,自动旋转
+21,rf_bailout.wav,bailout,,营救旋转
+22,rf_sig_lost.wav,signal lost,,信号丢失
+23,rf_sig_ok.wav,signal ok,,信号恢复
+24,rf_telem_lost.wav,telemetry lost,,数传丢失
+25,rf_telem_ok.wav,telemetry ok,,数传正常
+26,rf_cell_low.wav,cell low,,单体低压
+27,rf_cell_crit.wav,cell critical,,单体严重低压
+28,rf_voltage.wav,voltage {volts},,电池电压
+29,rf_temp.wav,temp {temp},,ESC温度
+30,rf_esc_hot.wav,ESC hot,,电调过热
+31,rf_sig_weak.wav,signal weak,,信号弱
+32,rf_sig_crit.wav,signal critical,,信号极弱
+33,rf_link.wav,link {lq},,链路质量
+34,rf_flight_done.wav,flight complete,,飞行完成
+35,rf_flight_time.wav,flight time {minutes} minutes,,飞行时间
